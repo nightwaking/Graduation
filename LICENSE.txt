@@ -1,0 +1,3 @@
+Test git add commit.
+Add 添加到暂存区。
+Commit 一次性添加到版本库。
