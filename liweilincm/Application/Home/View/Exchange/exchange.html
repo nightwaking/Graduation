@@ -1,0 +1,59 @@
+<include file="Index/head"/>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="javascript:;">分类管理</a></li>
+</ul>
+
+<form action="{:U('Exchange/exchange')}" method="post" role="form" class="form-inline store-form">
+    <div class="form-group">
+        <input type="text" name="exchange_id" value="{$formget.exchange_id|default=''}" placeholder="订单ID" class="form-control search-input">
+        <input type="text" name="exchange_order" value="{$formget.exchange_order|default=''}" placeholder="订单号" class="form-control search-input">
+        <span class="input-append date form_datetime">
+            <input type="text" name="start_time" value="{$formget.start_time|default=''}" placeholder="起始时间" class="form-control search-input" readonly>
+            <span class="add-on"><i class="icon-th"></i></span>
+        </span>
+        <span class="input-append date form_datetime">
+            <input type="text" name="end_time" value="{$formget.end_time|default=''}" placeholder="结束时间" class="form-control search-input" readonly>
+            <span class="add-on"><i class="icon-th"></i></span>
+        </span>
+        <input type="submit" class="btn" value="搜索" />
+        <a class="btn btn-danger" href="{:U('Exchange/exchange')}">清空</a>
+    </div>
+</form>
+<div class="table-responsive store-table">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>订单号</th>
+                <th>下单用户</th>
+                <th>下单时间</th>
+                <th>订单价格</th>
+                <th>订单地址</th>
+                <th>订单备注</th>
+            </tr>
+        </thead>
+        <tbody>
+        <foreach name="exchange" item="vo">
+            <tr>
+                <td>{$vo.e_id}</td>
+                <td>{$vo.e_order}</td>
+                <td>{$vo.username}</td>
+                <td>{$vo.e_time}</td>
+                <td>{$vo.e_price}</td>
+                <td>{$vo.e_address}</td>
+                <td>{$vo.e_notice}</td>
+            </tr>
+        </foreach>
+        </tbody>
+    </table>
+</div>
+<div class="pagination">{$page}</div>
+</body>
+<script src="__JS__/bootstrap-datetimepicker.min.js">
+</script>
+<script type="text/javascript">
+    $(".form_datetime").datetimepicker({
+        format: "yyyy-mm-dd hh:ii"
+    });
+</script>
+</html>

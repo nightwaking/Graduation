@@ -1,0 +1,64 @@
+<include file="head"/>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="javascript:;">商品管理</a></li>
+</ul>
+
+<form action="{:U('Index/store')}" method="post" role="form" class="form-inline store-form">
+    <div class="form-group">
+        <input type="text" name="store_id" value="{$formget.store_id|default=''}" placeholder="商品id" class="form-control search-input">
+        <input type="text" name="store_name" value="{$formget.store_name|default=''}" placeholder="商品名称" class="form-control search-input">
+        <select class="sele_kd form-control" name="kind_id" style="width: 100px;">
+            <option value="0">品牌</option>
+            <foreach name="settlesRes" item="vo">
+                <option name="kindOption" value="{$vo['kid']}">
+                    <?php
+                        echo (getfirstchar($vo['kname']));
+                    ?>
+                    {$vo['kname']}
+                </option>
+            </foreach>
+        </select>
+
+        <input type="submit" class="btn" value="搜索" />
+        <a class="btn btn-danger" href="{:U('Index/store')}">清空</a>
+    </div>
+</form>
+<div class="table-responsive store-table">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>商品名称</th>
+                <th>商品种类</th>
+                <th>商品数量</th>
+                <th>商品价格</th>
+                <th>商品描述</th>
+                <th>商品状态</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+        <foreach name="kind" item="vo">
+            <tr>
+                <td>{$vo.sid}</td>
+                <td>{$vo.storename}</td>
+                <td>{$vo.kname}</td>
+                <td>{$vo.storeamount}</td>
+                <td>{$vo.storeprice}</td>
+                <td>{$vo.storedescription}</td>
+                <td>{$vo.storestatus}</td>
+                <td>
+                    <a href="{:U('Index/edit', array('id'=>$vo['sid']))}">编辑</a>
+                    <a href="{:U('Index/delete', array('id'=>$vo['sid']))}">删除</a>
+                </td>
+            </tr>
+        </foreach>
+            <tr>
+                <td><a href="{:U('Index/add')}">增加新产品</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="pagination">{$page}</div>
+</body>
+</html>

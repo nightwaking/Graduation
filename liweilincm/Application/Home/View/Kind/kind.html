@@ -1,0 +1,43 @@
+<include file="Index/head"/>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="javascript:;">分类管理</a></li>
+</ul>
+
+<form action="{:U('Kind/kind')}" method="post" role="form" class="form-inline store-form">
+    <div class="form-group">
+        <input type="text" name="kind_id" value="{$formget.kind_id|default=''}" placeholder="分类id" class="form-control search-input">
+        <input type="text" name="kind_name" value="{$formget.kind_name|default=''}" placeholder="分类名称" class="form-control search-input">
+        <input type="submit" class="btn" value="搜索" />
+        <a class="btn btn-danger" href="{:U('Kind/kind')}">清空</a>
+    </div>
+</form>
+<div class="table-responsive store-table">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>分类名称</th>
+                <th>分类描述</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+        <foreach name="kind" item="vo">
+            <tr>
+                <td>{$vo.kid}</td>
+                <td>{$vo.kname}</td>
+                <td>{$vo.kdescription}</td>
+                <td>
+                    <a href="{:U('Kind/delete', array('id'=>$vo['kid']))}">删除</a>
+                </td>
+            </tr>
+        </foreach>
+            <tr>
+                <td><a href="{:U('Kind/add')}">增加新分类</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div class="pagination">{$page}</div>
+</body>
+</html>
