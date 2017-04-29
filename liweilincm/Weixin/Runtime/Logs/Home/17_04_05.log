@@ -1,0 +1,1037 @@
+[ 2017-04-05T01:47:38+08:00 ] 104.148.75.67 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T01:50:06+08:00 ] 47.198.5.81 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-04-05T02:48:26+08:00 ] 118.178.228.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-04-05T04:28:05+08:00 ] 23.247.72.35 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-05T05:21:03+08:00 ] 64.79.100.13 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000034s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T05:21:04+08:00 ] 64.79.100.13 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-04-05T08:50:35+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-04-05T08:57:01+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T09:00:53+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T09:05:53+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-04-05T09:09:33+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T09:15:03+08:00 ] 140.205.201.41 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T09:31:26+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T09:36:19+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [2] simplexml_load_string(): 1 /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [2] simplexml_load_string(): ^ /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T09:40:19+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T09:46:18+08:00 ] 118.190.15.31 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-04-05T10:29:39+08:00 ] 140.205.201.41 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T10:51:12+08:00 ] 118.178.228.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-05T11:10:11+08:00 ] 101.226.62.78 /?signature=c1b6c310a133c92111eb9139e21cba23ae5e31dd&timestamp=1491361811&nonce=785820994&openid=oXfOYw7lMHWETu3lg_CoVIB55oAc&encrypt_type=aes&msg_signature=120654ab5058de31e4ce797c89a085d3be22edcd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-05T12:20:12+08:00 ] 5.189.201.66 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-05T12:24:19+08:00 ] 45.120.243.254 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T14:24:10+08:00 ] 101.226.51.228 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-04-05T14:39:31+08:00 ] 89.248.172.90 http://httpheader.net/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T14:50:41+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-04-05T14:52:35+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-05T14:53:32+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-05T14:53:43+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-04-05T14:53:49+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T14:53:59+08:00 ] 140.205.201.38 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T14:54:17+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-04-05T14:54:18+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [2] simplexml_load_string(): Entity: line 1: parser error : Start tag expected, '&lt;' not found /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [2] simplexml_load_string(): 1 /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [2] simplexml_load_string(): ^ /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 56 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-05T14:54:37+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-04-05T15:16:37+08:00 ] 202.173.11.239 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-04-05T15:48:58+08:00 ] 140.205.201.38 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T16:05:58+08:00 ] 47.52.32.223 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-05T16:29:16+08:00 ] 123.151.42.61 http://www.baidu.com/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T18:44:08+08:00 ] 116.62.176.205 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined index: signature /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 25 行.
+NOTIC: [8] Undefined index: timestamp /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 26 行.
+NOTIC: [8] Undefined index: nonce /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 27 行.
+NOTIC: [8] Undefined index: HTTP_RAW_POST_DATA /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 47 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 57 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 59 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 62 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 124 行.
+NOTIC: [8] Trying to get property of non-object /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 167 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2017-04-05T20:10:48+08:00 ] 101.226.103.71 /?signature=b1c998b0582b5ebbe82df489911b6e6646efc134&echostr=4423614724145807053&timestamp=1491394248&nonce=1675177299
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+
+[ 2017-04-05T20:19:28+08:00 ] 101.226.62.78 /?signature=2b8ccab5b51b5099d7bad3578bc018bc687e048f&timestamp=1491394768&nonce=1769841281&openid=oXfOYw7lMHWETu3lg_CoVIB55oAc&encrypt_type=aes&msg_signature=411da86994fd6b1e449e307a8cefdd3b43604b77
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-04-05T22:40:19+08:00 ] 101.226.62.78 /?signature=65a030988f8b420cd0c3bec935a3fd85b4bb285e&timestamp=1491403219&nonce=1260214721&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-04-05T22:41:26+08:00 ] 120.195.45.163 /index.php/Home/Wechat/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-04-05T22:42:01+08:00 ] 120.195.45.163 /index.php/Home/Wechat/defindedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T22:44:14+08:00 ] 120.195.45.163 /index.php/Home/Wechat/defindedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T22:49:46+08:00 ] 101.226.62.78 /?signature=03f07bf7b90bb5d1edd01ac562dec5efffcff7d6&timestamp=1491403786&nonce=548306987&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-04-05T22:51:41+08:00 ] 101.226.62.78 /?signature=7a836481b13176c22cf3c42c67d761cf118774ed&timestamp=1491403901&nonce=107866318&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-04-05T22:52:59+08:00 ] 175.167.154.146 /index.php/Home/Wechat/defindedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-04-05T22:55:14+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken();
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-04-05T22:55:18+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken()
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-04-05T22:55:21+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-04-05T22:56:15+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+
+[ 2017-04-05T23:00:45+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-04-05T23:00:46+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-04-05T23:00:47+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-04-05T23:02:08+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-05T23:02:36+08:00 ] 175.167.154.146 /index.php/Home/Wechat/getToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+ERR: 非法操作:getToken
+
+[ 2017-04-05T23:02:57+08:00 ] 175.167.154.146 /index.php/Home/Wechat/defindedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:defindedItem
+
+[ 2017-04-05T23:04:01+08:00 ] 101.226.62.78 /?signature=81b928ccfbca95c4e13330fa0053b4e979decae0&timestamp=1491404641&nonce=661156491&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2017-04-05T23:04:35+08:00 ] 101.226.62.78 /?signature=2df2b48e97d1e8c30ac837a56d99f23d4fa634c8&timestamp=1491404675&nonce=1484873151&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-04-05T23:04:50+08:00 ] 101.226.62.78 /?signature=fc1b3b26cd66a9fb5232038a3a29e3edbf7f1107&timestamp=1491404690&nonce=865678168&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-04-05T23:05:41+08:00 ] 175.167.154.146 /index.php/Home/Wechat/defindedItem
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:defindedItem
+
+[ 2017-04-05T23:07:18+08:00 ] 101.226.62.78 /?signature=f58d18a40c47f9bbe810bbe157b476f8ac93a6e5&timestamp=1491404838&nonce=1001071061&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000029s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+NOTIC: [8] Undefined variable: content /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 195 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-04-05T23:07:35+08:00 ] 101.226.62.78 /?signature=8135bc347ece393a8b8a9feba384a1b96b1af432&timestamp=1491404855&nonce=1615226972&openid=oJrpEwGIpVsdDXPiOZ_Rxwn_V1Zc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined index: echostr /var/www/html/liweilincm/Weixin/Home/Controller/WechatController.class.php 第 10 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000078s ]
+

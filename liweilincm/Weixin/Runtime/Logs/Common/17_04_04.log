@@ -1,0 +1,54 @@
+[ 2017-04-04T13:43:03+08:00 ] 58.218.24.171 /index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+ERR: 无法加载模块:Index
+
+[ 2017-04-04T13:43:13+08:00 ] 58.218.24.171 /index.php/IndexController
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 无法加载模块:IndexController
+
+[ 2017-04-04T13:43:21+08:00 ] 58.218.24.171 /index.php/Weixin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Weixin
+
+[ 2017-04-04T13:43:38+08:00 ] 58.218.24.171 /index.php/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 无法加载模块:Index
+
+[ 2017-04-04T13:44:26+08:00 ] 58.218.24.171 /index.php/Wechat/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 无法加载模块:Wechat
+
+[ 2017-04-04T13:44:40+08:00 ] 58.218.24.171 /index.php/WechatController/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+ERR: 无法加载模块:WechatController
+
+[ 2017-04-04T13:44:55+08:00 ] 58.218.24.171 /index.php/WechatController.class.php/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 无法加载模块:WechatController.class.php
+
+[ 2017-04-04T13:45:09+08:00 ] 58.218.24.171 /index.php/Controller/WechatController/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+ERR: 无法加载模块:Controller
+
+[ 2017-04-04T15:15:00+08:00 ] 58.218.24.171 /index.php/getWxAccessToken
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+ERR: 无法加载模块:GetWxAccessToken
+
