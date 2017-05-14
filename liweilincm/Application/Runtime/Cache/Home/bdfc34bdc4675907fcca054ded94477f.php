@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>商品管理</title>
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap-datetimepicker.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/main.css">
-    <script src="/Public/Static/js/jquery.js"></script>
-    <script src="/Public/Static/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/main.css">
+    <script src="/liweilincm/Public/Static/js/jquery.js"></script>
+    <script src="/liweilincm/Public/Static/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -20,7 +20,7 @@
     </li>
 </ul>
 
-<form action="<?php echo U('Index/edit');?>" method="post" role="form" class="edit-form">
+<form action="<?php echo U('Index/edit');?>" method="post" role="form" class="edit-form" enctype="multipart/form-data">
     <div class="form-group">
         <input type="hidden" class="form-control" value="<?php echo ($kind["sid"]); ?>" name="store_id">
 
@@ -38,6 +38,9 @@
 
         <label for="storename">商品描述:</label>
         <input type="text" class="form-control" value="<?php echo ($kind[storedescription]); ?>" name="store_description">
+
+        <label for="storename">替换图片:</label>
+        <input type="file" class="form-control]" name="photo1">
 
         <input type="submit" class="btn" name="submit" value="提交">
     </div>    

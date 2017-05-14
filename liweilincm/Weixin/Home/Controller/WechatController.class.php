@@ -18,7 +18,7 @@ class WechatController extends Controller
 
 	private function checkSignature()
 	{
-		 if (!defined("TOKEN")) {
+		if (!defined("TOKEN")) {
 			throw new \Think\Exception('TOKEN is not defined!');
 		}
 
@@ -201,7 +201,7 @@ class WechatController extends Controller
 		header('content-type:text/html;charset=utf8');
 		
 		$access_token = getWxAccessToken();
-		var_dump($access_token);
+
 		$url =  "https://api.weixin.qq.com/cgi-bin/menu/create?access_token=".$access_token;
 		$postArray = array(
 			
@@ -213,7 +213,7 @@ class WechatController extends Controller
 						array(
 							'name' => urlencode('商城'),
 							'type' => 'view',
-							'url'  => 'http://www.liweilincm.xyz/app.php',
+							'url'  => 'http://www.liweilincm.xyz/index.php/Home/Home/home',
 						),
 					),
 				),
@@ -231,8 +231,7 @@ class WechatController extends Controller
 
 			),
 		);
-		echo $postJson  = urldecode(json_encode( $postArray ));
+		$postJson  = urldecode(json_encode( $postArray ));
 		$res = curl_get($url, 'post', 'json', $postJson);
-		var_dump($res);
 	}
 }

@@ -41,10 +41,9 @@ class ExchangeController extends Controller{
         $count = $this->exchange_model->where($where)->count();
         $page = new \Think\Page($count,20);
         $exchange = $this->exchange_model->join('__USER__ ON __USER__.uid = __EXCHANGE__.user_id')
-        ->join('__STORE__ ON __STORE__.sid = __EXCHANGE__.store_id')
         ->where($where)
         ->limit($page->firstRow, $page->listRows)
-        ->order("sid")
+        ->order("e_id")
         ->select();
 
         $page = new \Think\Page($count,20);

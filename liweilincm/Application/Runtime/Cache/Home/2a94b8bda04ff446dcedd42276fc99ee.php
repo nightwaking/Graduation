@@ -10,8 +10,8 @@
     <meta name="description" content="scclui为轻量级的网站后台管理系统模版。">
     <title>首页</title>
     
-    <link rel="stylesheet" href="/Public/Static/css/sccl.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/skin/qingxin/skin.css" id="layout-skin"/>
+    <link rel="stylesheet" href="/liweilincm/Public/Static/css/sccl.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/skin/qingxin/skin.css" id="layout-skin"/>
     
   </head>
  <body>
@@ -64,9 +64,9 @@
     </div>
 </body>
 
-<script type="text/javascript" src="/Public/Static/js/jquery.js"></script>
-<script type="text/javascript" src="/Public/Static/js/sccl.js"></script>
-<script type="text/javascript" src="/Public/Static/js/sccl-util.js"></script>
+<script type="text/javascript" src="/liweilincm/Public/Static/js/jquery.js"></script>
+<script type="text/javascript" src="/liweilincm/Public/Static/js/sccl.js"></script>
+<script type="text/javascript" src="/liweilincm/Public/Static/js/sccl-util.js"></script>
 <script type="text/javascript">
 $(function(){
     /*获取皮肤*/
@@ -80,6 +80,9 @@ $(function(){
                     ]},
                     {"id":"6","name":"订单管理","parentId":"1","url":"","icon":"&#xe602;","order":"1","isHeader":"0","childMenus":[
                     {"id":"7","name":"完成的订单","parentId":"6","url":"<?=U('Exchange/exchange')?>","icon":"","order":"1","isHeader":"0","childMenus":""}
+                    ]},
+                    {"id":"8","name":"图片操作","parentId":"1","url":"","icon":"&#xe602;","order":"1","isHeader":"0","childMenus":[
+                    {"id":"9","name":"图片添加","parentId":"6","url":"<?=U('Image/index')?>","icon":"","order":"1","isHeader":"0","childMenus":""},
                     ]}
                 ]},
                 ];

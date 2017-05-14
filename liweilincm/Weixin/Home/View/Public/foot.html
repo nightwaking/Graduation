@@ -1,0 +1,106 @@
+<div class="footer">
+<div class="weui-tab">
+    <div class="weui-tab__panel">
+
+    </div>
+    <div class="weui-tabbar" id="weiTab">
+        <a href="{:U('Store/index')}" class="weui-tabbar__item">
+            <img src="__IMAGE__/icon_nav_layout.png" alt="" class="weui-tabbar__icon">
+            <p class="weui-tabbar__label">商品</p>
+        </a>
+        <a href="{:U('User/index')}" class="weui-tabbar__item">
+            <img src="__IMAGE__/icon_nav_cell.png" alt="" class="weui-tabbar__icon">
+            <p class="weui-tabbar__label">个人信息</p>
+        </a>
+        <a href="{:U('Store/showBasket')}" class="weui-tabbar__item">
+            <img src="__IMAGE__/icon_nav_special.png" alt="" class="weui-tabbar__icon">
+            <p class="weui-tabbar__label">购物车</p>
+        </a>
+    </div>
+</div>
+</div>
+</body>
+
+<script type="text/javascript" src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="https://res.wx.qq.com/open/libs/weuijs/1.0.0/weui.min.js"></script>
+<script type="text/javascript" src="__JS__/zepto.min.js"></script>
+
+
+<script type="text/javascript">
+ 
+$(function(){
+        var $searchBar = $('#searchBar'),
+            $searchResult = $('#searchResult'),
+            $searchText = $('#searchText'),
+            $searchInput = $('#searchInput'),
+            $searchClear = $('#searchClear'),
+            $searchCancel = $('#searchCancel');
+
+        function hideSearchResult(){
+            $searchResult.hide();
+            $searchInput.val('');
+        }
+        function cancelSearch(){
+            hideSearchResult();
+            $searchBar.removeClass('weui-search-bar_focusing');
+            $searchText.show();
+        }
+
+        $searchText.on('click', function(){
+            $searchBar.addClass('weui-search-bar_focusing');
+            $searchInput.focus();
+        });
+        $searchInput
+            .on('blur', function () {
+                if(!this.value.length) cancelSearch();
+            })
+            .on('input', function(){
+                if(this.value.length) {
+                    $searchResult.show();
+                } else {
+                    $searchResult.hide();
+                }
+            })
+        ;
+        $searchClear.on('click', function(){
+            hideSearchResult();
+            $searchInput.focus();
+        });
+        $searchCancel.on('click', function(){
+            cancelSearch();
+            $searchInput.blur();
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(function(){
+        $('.weui-tabbar__item').on('click', function () {
+            $(this).addClass('weui-bar__item_on').siblings('.weui-bar__item_on').removeClass('weui-bar__item_on');
+        });
+    });
+</script>
+<script type="text/javascript">
+    var orderStatus = $('.order_status');
+    var orderCannel = $('.order_cannel');
+
+    for (var i=0; i<orderStatus.length; i++){
+        if (orderStatus[i].innerHTML == 1){
+            orderCannel[i].style.display = "none";
+        }else{
+            orderCannel[i].style.display = "block";
+        }
+    }
+</script>
+<script type="text/javascript" src="__JS__/jquery.js"></script>
+<script type="text/javascript" src="__JS__/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        var pic_circle = $('.item:first');
+        var pic_icon = $('.pic_icon:first');
+        pic_circle.addClass('active');
+        pic_icon.addClass('active');
+
+        $("#myCarousel").carousel('cycle')
+    });
+</script>
+</html>

@@ -9,7 +9,7 @@
     </li>
 </ul>
 
-<form action="{:U('Index/add')}" method="post" role="form" class="edit-form">
+<form action="{:U('Index/add')}" method="post" role="form" class="edit-form" enctype="multipart/form-data">
     <div class="form-group">
 
         <label for="storename">商品名称:</label>
@@ -17,7 +17,6 @@
 
         <label for="storename">商品种类:</label>
         <select class="form-control add-select" name="kind_id">
-            <option>商品种类</option>
             <foreach name="kind" item="vo">
                 <option value="{$vo[kid]}">{$vo[kname]}</option>
             </foreach>
@@ -32,6 +31,7 @@
         <label for="storename">商品描述:</label>
         <input type="text" class="form-control" value="" name="store_description">
 
+        <input type="file" class="form-control]" name="photo1">
         <input type="submit" class="btn" name="submit" value="提交">
     </div>    
 </form>

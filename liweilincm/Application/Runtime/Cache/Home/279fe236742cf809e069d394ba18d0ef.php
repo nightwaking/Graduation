@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>商品管理</title>
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap-datetimepicker.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/main.css">
-    <script src="/Public/Static/js/jquery.js"></script>
-    <script src="/Public/Static/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/main.css">
+    <script src="/liweilincm/Public/Static/js/jquery.js"></script>
+    <script src="/liweilincm/Public/Static/js/bootstrap.min.js"></script>
 </head>
 <body>
 <ul class="nav nav-tabs">
@@ -58,7 +58,7 @@
 </div>
 <div class="pagination"><?php echo ($page); ?></div>
 </body>
-<script src="/Public/Static/js/bootstrap-datetimepicker.min.js">
+<script src="/liweilincm/Public/Static/js/bootstrap-datetimepicker.min.js">
 </script>
 <script type="text/javascript">
     $(".form_datetime").datetimepicker({

@@ -1,0 +1,51 @@
+<include file="Public/head"/>
+<body ontouchstart>
+    <div class="weui-search-bar" id="searchBar">
+        <form class="weui-search-bar__form" action="{:U('Store/index')}" method="post">
+            <div class="weui-search-bar__box">
+                <i class="weui-icon-search"></i>
+                <input type="search" class="weui-search-bar__input" id="searchInput" name="kind_name" value="{$formget.kind_name|default=''}" placeholder="搜索"/>
+                <a href="javascript:" class="weui-icon-clear" id="searchClear"></a>
+            </div>
+            <label for="search_input" class="weui-search-bar__label" id="searchText">
+                <i class="weui-icon-search"></i>
+                <span>搜索</span>
+            </label>
+        </form>
+        <a href="javascript:" class="weui-search-bar__cancel-btn" id="searchCancel">取消</a>
+    </div>
+
+    <div id="myCarousel" class="carousel slide">
+        <!-- 轮播（Carousel）指标 -->
+        <ol class="carousel-indicators">
+            <foreach name="picture" item="vo">
+                <li data-target="#myCarousel" data-slide-to="{$vo.imgid}" class="pic_icon"></li>
+            </foreach>
+        </ol>   
+        <!-- 轮播（Carousel）项目 -->
+        <div class="carousel-inner">
+            <foreach name="picture" item="vo">
+                <div class="item">
+                    <img src="__ROOT__/Uploads/{$vo.image}" alt="Show slide" class="img-responsive">
+                </div>
+            </foreach>
+        </div>
+    </div>
+
+    <div class="weui-panel weui-panel_access">
+        <div class="weui-panel__hd">商品分类</div>
+        <div class="weui-panel__bd">
+        <foreach name="kind" item="vo">
+            <a href="{:U('Store/store', array('id'=>$vo['kid']))}" class="weui-media-box weui-media-box_appmsg">
+                <div class="weui-media-box__hd">
+                    <img class="weui-media-box__thumb" src="__IMAGE__/icon_nav_panel.png" alt="">
+                </div>
+                <div class="weui-media-box__bd">
+                    <h4 class="weui-media-box__title">{$vo.kname}</h4>
+                    <p class="weui-media-box__desc">{$vo.kdescription}</p>
+                </div>
+            </a>
+        </foreach>
+        </div>
+    </div>
+<include file="Public/foot"/>

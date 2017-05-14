@@ -1,0 +1,49 @@
+<include file="Public/head"/>
+<body ontouchstart>
+
+<div class="page__bd">
+    <div class="weui-cells__title">个人中心</div>
+    <div class="weui-cells">
+        <a href="{:U('User/edit')}">
+        <div class="weui-cell weui-cell_access">
+        <div class="weui-cell__bd">个人信息完善</div>
+            <div class="weui-cell__ft" style="font-size: 0">
+                <span class="weui-badge weui-badge_dot" style="margin-left: 5px;margin-right: 5px;"></span>
+            </div>
+        </div>
+        </a>
+    </div>
+    <div class="weui-cells">
+        <a href="{:U('Store/exchangeShow')}">
+        <div class="weui-cell weui-cell_access">
+        <div class="weui-cell__bd">订单查看</div>
+            <div class="weui-cell__ft" style="font-size: 0">
+                <span class="weui-badge weui-badge_dot" style="margin-left: 5px;margin-right: 5px;"></span>
+            </div>
+        </div>
+        </a>
+    </div>
+    <div class="weui-cells">
+        <a href="{:U('User/changePassword')}">
+        <div class="weui-cell weui-cell_access">
+        <div class="weui-cell__bd">密码修改</div>
+            <div class="weui-cell__ft" style="font-size: 0">
+                <span class="weui-badge weui-badge_dot" style="margin-left: 5px;margin-right: 5px;"></span>
+            </div>
+        </div>
+        </a>
+    </div>
+    <br/>
+    <br/>
+    <div class="weui-cells">
+        <a href="{:U('Home/logout')}">
+        <div class="weui-cell weui-cell_access">
+        <div class="weui-cell__bd">退出登录</div>
+            <div class="weui-cell__ft" style="font-size: 0">
+                <span class="weui-badge weui-badge_dot" style="margin-left: 5px;margin-right: 5px;"></span>
+            </div>
+        </div>
+        </a>
+    </div>
+</div>
+<include file="Public/foot"/>

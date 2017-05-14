@@ -1,0 +1,59 @@
+<include file="Public/head"/>
+<body ontouchstart>
+    <div class="page__bd">
+        <div class="weui-cells__title">订单结算</div>
+
+        <volist name="kind" id="vo">
+        <div class="weui-cells">
+            <div class="weui-cell weui-cell_access">
+                <div class="weui-cell__bd">商品名:{$vo.storename}</div>
+                <div class="weui-cell__bd">商品价格:{$vo.storeprice}元</div>
+            </div>
+        </div>
+        </volist>
+
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <p>商品总价格</p>
+                    <p style="font-size: 16px;color: #888888;">{$sum}元</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <form action="{:U('Store/exchange')}" method="post">
+        <vo name="kind" item="vo">
+        <div class="weui-cells__title">订单电话</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="order_moblie" placeholder="请输入电话" value="{$vo.mobile}">
+                </div>
+            </div>
+        </div>
+        </vo>
+
+        <input type="text" name="sum_price" value="{$sum}" hidden="hidden">
+
+        <div class="weui-cells__title">订单地址</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="order_address" placeholder="请输入地址">
+                </div>
+            </div>
+        </div>
+
+        <div class="weui-cells__title">订单备注</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="order_notice" placeholder="请输入备注">
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="weui-btn weui-btn_plain-primary">提交订单</button>   
+    </form>
+<include file="Public/foot"/>

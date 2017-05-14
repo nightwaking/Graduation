@@ -2,8 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <link href="/Public/Static/css/404.css" rel="stylesheet" type="text/css" />
-        <script src="/Public/Static/js/jquery.js"></script>
+        <link href="/liweilincm/Public/Static/css/404.css" rel="stylesheet" type="text/css" />
+        <script src="/liweilincm/Public/Static/js/jquery.js"></script>
         <script type="text/javascript">
             $(function() {
                 var h = $(window).height();
@@ -41,11 +41,11 @@
     </head>
     <body>
         <div class="mianBox">
-            <img src="/Public/Static/images/yun0.png" alt="" class="yun yun0" />
-            <img src="/Public/Static/images/yun1.png" alt="" class="yun yun1" />
-            <img src="/Public/Static/images/yun2.png" alt="" class="yun yun2" />
-            <img src="/Public/Static/images/bird.png" alt="" class="bird" />
-            <img src="/Public/Static/images/san.png" alt="" class="san" />
+            <img src="/liweilincm/Public/Static/images/yun0.png" alt="" class="yun yun0" />
+            <img src="/liweilincm/Public/Static/images/yun1.png" alt="" class="yun yun1" />
+            <img src="/liweilincm/Public/Static/images/yun2.png" alt="" class="yun yun2" />
+            <img src="/liweilincm/Public/Static/images/bird.png" alt="" class="bird" />
+            <img src="/liweilincm/Public/Static/images/san.png" alt="" class="san" />
             <div class="tipInfo">
                 <div class="in">
                     <div class="textThis">

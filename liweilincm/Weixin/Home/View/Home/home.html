@@ -1,0 +1,36 @@
+<include file="Public/head"/>
+<body ontouchstart>
+<div class="weui-cells__title">用户注册:</div>
+<form method="post" action="{:U('Home/register')}">
+    <div class="weui-cells weui-cells_form">
+        <div class="weui-cell">
+            <div class="weui-cell__hd"><label class="weui-label">用户名:</label></div>
+            <div class="weui-cell__bd">
+                <input class="weui-input" type="text" id="username" placeholder="请输入用户名" name="username">
+            </div>
+        </div>
+
+        <div class="weui-cell">
+            <div class="weui-cell__hd"><label class="weui-label">密码:</label></div>
+            <div class="weui-cell__bd">
+                <input class="weui-input" type="password" id="password" placeholder="请输入密码" name="password">
+            </div>
+        </div>
+
+        <div class="weui-cell">
+            <div class="weui-cell__hd"><label class="weui-label">重复密码:</label></div>
+            <div class="weui-cell__bd">
+                <input class="weui-input" id="repassword" type="password" placeholder="再次输入用户名" name="repassword">
+            </div>
+        </div>
+
+        <button class="weui-btn weui-btn_plain-primary" type="submit" id="btn">注册</button>
+    </div>
+</form>
+<br>
+
+ <a href="{:U('Home/dologin')}" class="weui-btn weui-btn_plain-primary" id="btn">登录</a>
+
+<div class="weui-cells__title" id="notice">表单报错</div>
+</body>
+</html>

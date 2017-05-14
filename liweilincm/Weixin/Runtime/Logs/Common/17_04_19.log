@@ -1,0 +1,45 @@
+[ 2017-04-19T16:17:14+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/icon_tabbar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-04-19T18:31:19+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/content.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+
+[ 2017-04-19T18:31:19+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/navigation.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+
+[ 2017-04-19T18:31:19+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/popout.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+
+[ 2017-04-19T18:31:19+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/transparent.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-04-19T18:32:22+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/content.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-19T18:32:22+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/navigation.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-19T18:32:22+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/popout.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+
+[ 2017-04-19T18:32:22+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Store/images/layers/transparent.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+

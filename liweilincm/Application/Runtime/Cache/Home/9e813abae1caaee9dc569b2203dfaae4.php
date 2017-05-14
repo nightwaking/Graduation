@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8">
     <title>商品管理</title>
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/bootstrap-datetimepicker.min.css">
-    <link rel="stylesheet" type="text/css" href="/Public/Static/css/main.css">
-    <script src="/Public/Static/js/jquery.js"></script>
-    <script src="/Public/Static/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" type="text/css" href="/liweilincm/Public/Static/css/main.css">
+    <script src="/liweilincm/Public/Static/js/jquery.js"></script>
+    <script src="/liweilincm/Public/Static/js/bootstrap.min.js"></script>
 </head>
 <body>
 
@@ -20,7 +20,7 @@
     </li>
 </ul>
 
-<form action="<?php echo U('Index/add');?>" method="post" role="form" class="edit-form">
+<form action="<?php echo U('Index/add');?>" method="post" role="form" class="edit-form" enctype="multipart/form-data">
     <div class="form-group">
 
         <label for="storename">商品名称:</label>
@@ -28,7 +28,6 @@
 
         <label for="storename">商品种类:</label>
         <select class="form-control add-select" name="kind_id">
-            <option>商品种类</option>
             <?php if(is_array($kind)): foreach($kind as $key=>$vo): ?><option value="<?php echo ($vo[kid]); ?>"><?php echo ($vo[kname]); ?></option><?php endforeach; endif; ?>
         </select>
 
@@ -41,6 +40,7 @@
         <label for="storename">商品描述:</label>
         <input type="text" class="form-control" value="" name="store_description">
 
+        <input type="file" class="form-control]" name="photo1">
         <input type="submit" class="btn" name="submit" value="提交">
     </div>    
 </form>

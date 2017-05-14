@@ -1,0 +1,15 @@
+[ 2017-05-05T09:13:12+08:00 ] 127.0.0.1 /liweilincm/index.php/Home/Store/Uploads/2017-05-04/1493899022.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+
+[ 2017-05-05T09:13:12+08:00 ] 127.0.0.1 /liweilincm/index.php/Home/Store/Uploads/2017-05-05/1493943082.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-05-05T09:13:12+08:00 ] 127.0.0.1 /liweilincm/index.php/Home/Store/Uploads/2017-05-05/1493943136.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+

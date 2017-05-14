@@ -1,0 +1,38 @@
+<include file="Index:head"/>
+<ul class="nav nav-tabs">
+    <li class="active"><a href="javascript:;">图片管理</a></li>
+</ul>
+
+<div class="table-responsive store-table">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>图片名称</th>
+                <th>图片用处</th>
+                <th>图片添加时间</th>
+                <th>操作</th>
+            </tr>
+        </thead>
+        <tbody>
+        <foreach name="kind" item="vo">
+            <tr>
+                <td>{$vo.imgid}</td>
+                <td>{$vo.image}</td>
+                <td><?php getWay($vo['type']);?></td>
+                <td>{$vo.create_time}</td>
+                <td>
+                    <a href="{:U('Image/delete', array('id'=>$vo['imgid']))}">删除</a>  
+                </td>
+            </tr>
+        </foreach>
+            <tr>
+                <td><a href="{:U('Image/add')}">增加新图片</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="pagination">{$page}</div>
+</body>
+</html>

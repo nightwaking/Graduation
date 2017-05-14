@@ -1,0 +1,29 @@
+<include file="Public/head"/>
+<body ontouchstart>
+    <foreach name="kind" item="vo">
+    <div class="weui-form-preview">
+        <div class="weui-form-preview__hd">
+            <label class="weui-form-preview__label">商品价格</label>
+            <em class="weui-form-preview__value">¥{$vo.storeprice}</em>
+        </div>
+        <div class="weui-form-preview__bd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">商品名称</label>
+                <span class="weui-form-preview__value">{$vo.storename}</span>
+            </div>
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">用户名</label>
+                <span class="weui-form-preview__value">{$vo.username}</span>
+            </div>
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label">商品描述</label>
+                <span class="weui-form-preview__value">{$vo.storedescription}</span>
+            </div>
+        </div>
+        <div class="weui-form-preview__ft">
+            <a class="weui-form-preview__btn weui-form-preview__btn_default" href="{:U('Store/delete', array('id'=>$vo['bid']))}">从购物车中移除</a>
+        </div>  
+    </div>
+    </foreach>
+    <a class="weui-btn weui-btn_plain-primary" href="{:U('Store/exchange')}">结算</a>
+<include file="Public/foot"/>

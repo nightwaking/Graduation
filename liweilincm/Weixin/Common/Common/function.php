@@ -75,3 +75,15 @@
             }
         }
     }
+
+
+    function OrderStatus($value){
+        switch ($value){
+            case 0:
+                echo "已完成的订单";
+                break;
+            case 1:
+                echo "已取消的订单";
+                break;
+        }
+    }

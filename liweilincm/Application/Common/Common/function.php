@@ -54,3 +54,24 @@ function sp_random_string($len = 6) {
 	return $output;
 }
 
+function upload($upload){
+	$upload = new \Think\Upload();
+    $upload->maxSize = 3145728;
+    $upload->saveName = 'time';
+    $upload->exts = array('jpg', 'gif', 'png', 'jpeg');
+    $upload->rootPath = "./Uploads/";
+    $info = $upload->upload();
+    return $info;
+}
+
+
+function getWay($type){
+	switch ($type){
+		case 1:
+			echo "用于幻灯片";
+			break;
+		case 2:
+			echo "用于页面修饰";
+			break;
+	}
+}

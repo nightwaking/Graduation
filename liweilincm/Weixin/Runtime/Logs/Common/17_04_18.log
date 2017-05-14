@@ -1,0 +1,35 @@
+[ 2017-04-18T15:09:57+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+
+[ 2017-04-18T15:11:31+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+
+[ 2017-04-18T15:11:52+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+
+[ 2017-04-18T15:12:26+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+
+[ 2017-04-18T15:20:55+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/pic_article.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+
+[ 2017-04-18T15:50:01+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+
+[ 2017-04-18T15:51:16+08:00 ] 127.0.0.1 /Graduation/liweilincm/index.php/Home/Home/images/vcode.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+

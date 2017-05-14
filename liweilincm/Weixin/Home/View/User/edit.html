@@ -1,0 +1,36 @@
+<include file="Public/head"/>
+<body ontouchstart>
+<form action="{:U('User/edit')}" method="post">
+        <foreach name="kind" item="vo">
+        <div class="weui-cells__title">用户名</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="username" placeholder="请输入用户名" value="{$vo.username}">
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="weui-cells__title">手机号</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="mobile" value="{$vo.mobile}" placeholder="请完善手机号">
+                </div>
+            </div>
+        </div>
+
+        <div class="weui-cells__title">邮箱</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" type="text" name="email" value="{$vo.email}" placeholder="请完善邮箱">
+                </div>
+            </div>
+        </div>
+        </foreach>
+
+        <button type="submit" class="weui-btn weui-btn_plain-primary">提交修改</button>   
+</form>
+<include file="Public/foot"/>

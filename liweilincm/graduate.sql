@@ -3,8 +3,8 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: 2017-04-25 12:56:30
--- 服务器版本： 5.7.17-0ubuntu0.16.04.2
+-- Generation Time: 2017-05-05 10:43:02
+-- 服务器版本： 5.7.18-0ubuntu0.16.04.1
 -- PHP Version: 5.6.30-10+deb.sury.org~xenial+2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -53,7 +53,7 @@ CREATE TABLE `gra_exchange` (
   `e_id` int(11) UNSIGNED NOT NULL,
   `e_order` int(20) UNSIGNED NOT NULL,
   `user_id` int(11) UNSIGNED NOT NULL,
-  `e_time` datetime(6) NOT NULL,
+  `e_time` datetime NOT NULL,
   `e_address` varchar(35) COLLATE utf8_unicode_ci NOT NULL,
   `e_notice` varchar(35) COLLATE utf8_unicode_ci NOT NULL,
   `e_price` int(22) UNSIGNED NOT NULL,
@@ -66,14 +66,36 @@ CREATE TABLE `gra_exchange` (
 --
 
 INSERT INTO `gra_exchange` (`e_id`, `e_order`, `user_id`, `e_time`, `e_address`, `e_notice`, `e_price`, `status`, `e_mobile`) VALUES
-(1, 1233445566, 1, '2017-04-11 11:28:00.000000', '辽宁省大连市', '颜色要求', 120, 0, 'xxxxxxxxxxx'),
-(2, 1492853613, 1, '2017-04-22 17:33:33.000000', '', '', 720, 0, '18511884152'),
-(3, 1492853690, 1, '2017-04-22 17:34:50.000000', '', '', 720, 0, '18511884152'),
-(4, 1492930743, 1, '2017-04-23 14:59:03.000000', '大连市', '快点儿送', 720, 0, '18511884152'),
-(5, 1492931179, 9, '2017-04-23 15:06:19.000000', '江苏省', '颜色要求', 240, 1, '15840930543'),
-(6, 1492932845, 9, '2017-04-23 15:34:05.000000', '江苏省', '颜色要求', 240, 1, '15840930543'),
-(7, 1492933208, 9, '2017-04-23 15:40:08.000000', '阿斯顿', '', 240, 1, ''),
-(8, 1493015573, 9, '2017-04-24 14:32:53.000000', '大连', '', 240, 0, '15840930543');
+(1, 1233445566, 1, '2017-04-11 11:28:00', '辽宁省大连市', '颜色要求', 120, 0, 'xxxxxxxxxxx'),
+(2, 1492853613, 1, '2017-04-22 17:33:33', '', '', 720, 0, '18511884152'),
+(3, 1492853690, 1, '2017-04-22 17:34:50', '', '', 720, 0, '18511884152'),
+(4, 1492930743, 1, '2017-04-23 14:59:03', '大连市', '快点儿送', 720, 0, '18511884152'),
+(5, 1492931179, 9, '2017-04-23 15:06:19', '江苏省', '颜色要求', 240, 1, '15840930543'),
+(6, 1492932845, 9, '2017-04-23 15:34:05', '江苏省', '颜色要求', 240, 1, '15840930543'),
+(7, 1492933208, 9, '2017-04-23 15:40:08', '阿斯顿', '', 240, 1, ''),
+(8, 1493015573, 9, '2017-04-24 14:32:53', '大连', '', 240, 0, '15840930543');
+
+-- --------------------------------------------------------
+
+--
+-- 表的结构 `gra_images`
+--
+
+CREATE TABLE `gra_images` (
+  `imgid` int(11) NOT NULL,
+  `image` varchar(200) NOT NULL,
+  `create_time` varchar(30) NOT NULL,
+  `type` int(10) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+--
+-- 转存表中的数据 `gra_images`
+--
+
+INSERT INTO `gra_images` (`imgid`, `image`, `create_time`, `type`) VALUES
+(4, '2017-05-05/1493947229.jpg', '2017-05-05 09:20:29', 1),
+(2, '2017-05-05/1493943082.jpg', '2017-05-05 08:11:22', 0),
+(3, '2017-05-05/1493943136.jpg', '2017-05-05 08:12:16', 2);
 
 -- --------------------------------------------------------
 
@@ -108,16 +130,20 @@ CREATE TABLE `gra_store` (
   `storestatus` int(10) UNSIGNED NOT NULL DEFAULT '0' COMMENT '商品状态0:正常 1:下架 2:处理',
   `storeamount` int(11) UNSIGNED NOT NULL DEFAULT '0' COMMENT '商品数量',
   `storeprice` int(15) UNSIGNED NOT NULL DEFAULT '0' COMMENT '商品价格',
-  `storedescription` varchar(35) COLLATE utf8_unicode_ci NOT NULL COMMENT '商品描述'
+  `storedescription` varchar(35) COLLATE utf8_unicode_ci NOT NULL COMMENT '商品描述',
+  `storeimage` varchar(100) COLLATE utf8_unicode_ci DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='商品表';
 
 --
 -- 转存表中的数据 `gra_store`
 --
 
-INSERT INTO `gra_store` (`sid`, `storename`, `kdid`, `storestatus`, `storeamount`, `storeprice`, `storedescription`) VALUES
-(1, '短衬衣', '1', 0, 21, 120, '短衬衫适合夏天穿着'),
-(2, '足球', '2', 0, 12, 300, '足球运动');
+INSERT INTO `gra_store` (`sid`, `storename`, `kdid`, `storestatus`, `storeamount`, `storeprice`, `storedescription`, `storeimage`) VALUES
+(1, '短衬衣', '1', 0, 21, 120, '短衬衫适合夏天穿着', '2017-05-05/1493941966.jpg'),
+(2, '足球', '2', 0, 12, 300, '足球运动', NULL),
+(15, '', '商品种类', 0, 0, 0, '', NULL),
+(17, '', '商品种类', 0, 0, 0, '', '2017-05-04/1493899022.png'),
+(18, '', '商品种类', 0, 0, 0, '', '2017-05-04/1493899507.png');
 
 -- --------------------------------------------------------
 
@@ -141,10 +167,9 @@ CREATE TABLE `gra_user` (
 --
 
 INSERT INTO `gra_user` (`uid`, `username`, `pwd`, `email`, `lasttime`, `regtime`, `type`, `mobile`) VALUES
-(1, 'nightwaking', 'a9986595098961f0eb08958b06bcbe62', '1105468795@qq.com', '2017-04-23 14:58:26', '2017-04-06', 1, '18511884152'),
-(11, 'cuimeng1', 'a9986595098961f0eb08958b06bcbe62', 'xxxxxxxxx@xx.com', '2017-04-19 16:13:00', '2017-04-19', 0, NULL),
+(1, 'nightwaking', 'a9986595098961f0eb08958b06bcbe62', '1105468795@qq.com', '2017-05-05 07:45:10', '2017-04-06', 1, '18511884152'),
 (10, 'test01', 'a9986595098961f0eb08958b06bcbe62', 'xxxxxxxxx@xx.com', '2017-04-18 20:11:17', '2017-04-18', 0, NULL),
-(9, 'admin', 'a9986595098961f0eb08958b06bcbe62', '1105468795@qq.com', '2017-04-24 14:38:59', '2017-04-18', 0, '15840930543'),
+(9, 'admin', 'a9986595098961f0eb08958b06bcbe62', '1105468795@qq.com', '2017-05-05 08:47:40', '2017-04-18', 0, '15840930543'),
 (8, 'asdasd', 'e00cf25ad42683b3df678c61f42c6bda', 'xxxxxxxxx@xx.com', '2017-04-18 19:20:54', '2017-04-18', 0, NULL);
 
 --
@@ -162,6 +187,12 @@ ALTER TABLE `gra_basket`
 --
 ALTER TABLE `gra_exchange`
   ADD PRIMARY KEY (`e_id`);
+
+--
+-- Indexes for table `gra_images`
+--
+ALTER TABLE `gra_images`
+  ADD PRIMARY KEY (`imgid`);
 
 --
 -- Indexes for table `gra_kind`
@@ -196,6 +227,11 @@ ALTER TABLE `gra_basket`
 ALTER TABLE `gra_exchange`
   MODIFY `e_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 --
+-- 使用表AUTO_INCREMENT `gra_images`
+--
+ALTER TABLE `gra_images`
+  MODIFY `imgid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+--
 -- 使用表AUTO_INCREMENT `gra_kind`
 --
 ALTER TABLE `gra_kind`
@@ -204,7 +240,7 @@ ALTER TABLE `gra_kind`
 -- 使用表AUTO_INCREMENT `gra_store`
 --
 ALTER TABLE `gra_store`
-  MODIFY `sid` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `sid` int(11) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 --
 -- 使用表AUTO_INCREMENT `gra_user`
 --

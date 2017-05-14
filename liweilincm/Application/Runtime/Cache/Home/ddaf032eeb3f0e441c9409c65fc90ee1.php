@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <title>后台登录</title>
 
-<link href="/Public/Static/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="/liweilincm/Public/Static/css/style.css" rel="stylesheet" type="text/css" media="all" />
 </head>
 <body>
 
@@ -33,5 +33,5 @@
 
 
 </body>
-<script type="text/javascript" src="/Public/Static/js/jquery.js"></script>
+<script type="text/javascript" src="/liweilincm/Public/Static/js/jquery.js"></script>
 </html>

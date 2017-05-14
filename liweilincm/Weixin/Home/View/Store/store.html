@@ -1,0 +1,35 @@
+<include file="Public/head"/>
+<body ontouchstart>
+    <div class="weui-search-bar" id="searchBar">
+        <form class="weui-search-bar__form" action="{:U('Store/store')}" method="post">
+            <div class="weui-search-bar__box">
+                <i class="weui-icon-search"></i>
+                <input type="search" class="weui-search-bar__input" id="searchInput" name="store_name" value="{$formget.store_name|default=''}" placeholder="搜索"/>
+                <a href="javascript:" class="weui-icon-clear" id="searchClear"></a>
+            </div>
+            <label for="search_input" class="weui-search-bar__label" id="searchText">
+                <i class="weui-icon-search"></i>
+                <span>搜索</span>
+            </label>
+        </form>
+        <a href="javascript:" class="weui-search-bar__cancel-btn" id="searchCancel">取消</a>
+    </div>
+
+    <div class="weui-panel weui-panel_access">
+        <div class="weui-panel__hd">商品展示</div>
+        <div class="weui-panel__bd">
+        <foreach name="kind" item="vo">
+            <a href="{:U('Store/detail', array('id'=>$vo['sid']))}" class="weui-media-box weui-media-box_appmsg">
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <img src="__ROOT__/Uploads/{$vo.storeimage}" class="img-responsive">
+                    <div class="weui-media-box__bd store-show">
+                        <h4 class="weui-media-box__title">{$vo.storename}</h4>
+                        <p class="weui-media-box__desc">商品价格: {$vo.storeprice}</p>
+                        <p class="weui-media-box__desc">商品描述: {$vo.storedescription}</p>
+                    </div>
+                </div>
+            </a>
+        </foreach>
+        </div>
+    </div>
+<include file="Public/foot"/>

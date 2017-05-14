@@ -9,7 +9,7 @@
     </li>
 </ul>
 
-<form action="{:U('Index/edit')}" method="post" role="form" class="edit-form">
+<form action="{:U('Index/edit')}" method="post" role="form" class="edit-form" enctype="multipart/form-data">
     <div class="form-group">
         <input type="hidden" class="form-control" value="{$kind.sid}" name="store_id">
 
@@ -27,6 +27,9 @@
 
         <label for="storename">商品描述:</label>
         <input type="text" class="form-control" value="{$kind[storedescription]}" name="store_description">
+
+        <label for="storename">替换图片:</label>
+        <input type="file" class="form-control]" name="photo1">
 
         <input type="submit" class="btn" name="submit" value="提交">
     </div>    

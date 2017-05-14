@@ -1,0 +1,47 @@
+<include file="Public/head"/>
+<body ontouchstart>
+    <div class="page__bd">
+        <div class="weui-cells__title">商品详情</div>
+
+        <volist name="kind" id="vo">
+        <div class="weui-cells">
+            <div class="weui-cell weui-cell_access">
+                <div class="weui-cell__bd">{$vo.storename}</div>
+            </div>
+        </div>
+
+        
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <p>商品图片</p>
+                    <img src="__ROOT__/Uploads/{$vo.storeimage}" class="img-responsive">
+                </div>
+            </div>
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <p>商品价格</p>
+                    <p style="font-size: 16px;color: #888888;">{$vo.storeprice}元</p>
+                </div>
+            </div>
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <p>商品数量</p>
+                    <p style="font-size: 16px;color: #888888;">{$vo.storeamount}件</p>
+                </div>
+            </div>
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <p>商品描述</p>
+                    <p style="font-size: 16px;color: #888888;">{$vo.storedescription}</p>
+                </div>
+            </div>
+        </div>
+        </volist>
+    </div>
+
+    <a href="{:U('Store/basket', array('id'=>$vo['sid']))}" class="weui-btn weui-btn_plain-primary" id="btn">加入购物车</a>
+    <a href="{:U('Store/showBasket')}" class="weui-btn weui-btn_plain-primary" id="btn">查看购物车中商品</a>
+
+
+<include file="Public/foot"/>
